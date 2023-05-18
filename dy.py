@@ -6,7 +6,10 @@ second_counter = 0
 while second_counter < 4 :
     print("_________________")
     second_counter +=1
-    
+    for i in range(5):
+        print("******_______")
+    for v in range(4):
+        print("_____________")
 
 
 
